@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 096 篇 - 百家乐Ai预测分析工具：把一张截图整理成可追溯的说明材料](https://github.com/TGmszrcsz/baccarat-ai-096) ｜ [下一篇：第 098 篇 - 百家乐Ai预测分析工具：交接给另一位检查者时准备哪些材料](https://github.com/TGmszrcsz/baccarat-ai-098)
+
+<!-- article-chain:end -->
+
 文件行数变化不大，却有部分历史记录内容被修改。本篇围绕“比较两次导出时怎样区分新增与修订”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
